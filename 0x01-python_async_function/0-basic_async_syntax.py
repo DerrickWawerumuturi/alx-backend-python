@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+""" Task 0
+"""
 import asyncio as pause
 import random
 
